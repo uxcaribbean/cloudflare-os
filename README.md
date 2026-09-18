@@ -17,7 +17,7 @@ Cloudflare OS provides three things in particular:
 
 We are making Cloudflare OS open source so that others can copy it and customize it for their own company. The idea is not that your company uses Cloudflare OS, but rather that you make it "*Your Company* OS".
 
-## Quick Start
+## Quick Starts
 
 To quickly run Cloudflare OS locally, [install pnpm](https://pnpm.io/), then do:
 
